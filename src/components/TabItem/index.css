@@ -1,0 +1,23 @@
+.tab-btn {
+    border: 0px solid #7b8794;
+    border-bottom-width: 1px;
+    background-color: transparent;
+    width: 100px;
+    height: 36px;
+    font-family: sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .selected-tab {
+    border: 0px solid #2563eb;
+    border-bottom-width: 1px;
+    background-color: transparent;
+    color: #2563eb;
+    width: 100px;
+    height: 36px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: medium;
+  }
+  
